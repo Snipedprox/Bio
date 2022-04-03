@@ -21,7 +21,7 @@ Nationality: `I was born in Asia`
 
 Coding device: `broken phone`,`old laptop`
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My coding discord server</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/AyCWGr4zj6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/AyCWGr4zj6" height="30" width="40" /></a>
 </p>
